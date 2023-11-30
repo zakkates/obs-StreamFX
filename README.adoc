@@ -11,6 +11,29 @@ Upgrade your setup with several modern sources, filters, transitions and encoder
 </p>
 ++++
 
+
+++++
+<hr/>
+++++
+
+
+== UPDATE: HOW TO INSTALL (2023)
+++++
+<p><b>You can no longer download directly from the Repo and receive the .pkg file for installation.</b></p>
+<p>You must first fork the repo, activate 'actions', make a modification, and commit your changes for the .pkg build to occur. Watch the video below for the instructions.</p>
+++++
+link:https://youtu.be/agcIcuGrf88?si=RepKpnBH_LQFMB9x[How To Video: OBS 29 - STREAMFX for FREE! (APRIL 2023)]
+
+++++
+<em>Source from link:https://www.youtube.com/@Mnky-qt1km[YouTube User: Mnky]</em>
+++++
+
+++++
+<hr/>
+++++
+
+
+
 === Support the development of StreamFX!
 ++++
 <a href="https://patreon.com/join/xaymar" target="_blank">
