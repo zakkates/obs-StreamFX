@@ -28,6 +28,22 @@ link:https://youtu.be/agcIcuGrf88?si=RepKpnBH_LQFMB9x[How To Video: OBS 29 - STR
 <em>Source from link:https://www.youtube.com/@Mnky-qt1km[YouTube User: Mnky]</em>
 ++++
 
+*
+*
+*
+
+++++
+<h4>Update November 29th, 2023</h4>
+<p>The Windows (clang) build failed. As a result, I removed all builds except the MAC version (which is the one that I plan on using).</p>
+<ul>
+<li>Build / Windows (Clang) (push) Failing after 3m (Error: Process completed with exit code 1.)</li>
+<li>Build / Windows (MSVC) (push) Successful in 6m</li>
+<li>Build / MacOS (Clang) (push) Successful in 11m</li>
+<li>Build / Ubuntu 22.04 (GCC-12, Qt6) (push) Successful in 5m</li>
+<li>Build / Ubuntu 22.04 (Clang-16, Qt6) (push) Successful in 5m</li>
+</ul>
+++++
+
 ++++
 <hr/>
 ++++
